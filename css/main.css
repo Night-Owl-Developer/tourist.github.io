@@ -222,8 +222,18 @@ body {
     color: #fff;
 }
 
+/* Sleder */
 
+.slider {
 
+}
 
+.slider__item {
+    width: 335px;
+    height: 402px;
+}
 
-
+.slider__item.active {
+    width: 380px;
+    height: 456px;
+}
